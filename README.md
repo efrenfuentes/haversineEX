@@ -1,5 +1,8 @@
 # haversineEX
 
+[![Hex.pm](https://img.shields.io/hexpm/v/haversineEx.svg)](https://hex.pm/packages/haversineEx)
+
+
 Provides some helpers functions to calculate the distance between two points on Earth using the Haversine formula. Also can find the bearing between two points, and get a point at a given distance and bearing from a given point.
 
 ## Installation
